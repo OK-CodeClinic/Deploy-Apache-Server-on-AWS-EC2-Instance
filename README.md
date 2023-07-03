@@ -17,6 +17,8 @@ My EC2 name: ```web_01```n and other tags that include;
 ```Date created```
 ```Project```
 ``` Owner```
+![Screenshot (35)](https://github.com/OK-CodeClinic/Deploy-Apache-Server-on-AWS-EC2-Instance/assets/100064229/63f8db40-a821-4bee-a122-3d77b534e51f)
+
 
 #### Step 2: Choosing an AMI
 In the AWS makerplace AMI, thousands of AMI are provided by AWS and other verified.
